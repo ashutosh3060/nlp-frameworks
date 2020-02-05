@@ -1,0 +1,4 @@
+# Resources
+
+# Detect and fight neural fake news - Analytics Vidhya
+https://www.analyticsvidhya.com/blog/2019/12/detect-fight-neural-fake-news-nlp/
