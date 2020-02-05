@@ -1,0 +1,4 @@
+# Resources
+
+# Text classification using pytorch
+https://www.analyticsvidhya.com/blog/2020/01/first-text-classification-in-pytorch/
