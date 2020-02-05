@@ -1,0 +1,4 @@
+# Resources
+
+# BERT - Analytics Vidhya
+https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/
